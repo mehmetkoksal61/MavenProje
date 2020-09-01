@@ -35,7 +35,7 @@ public class Day09_Assertion {
         boolean iceriyorMu = title.contains("Amazon"); // "true" ya da "false"
         // boolean veri tipinde bir değer giriyoruz.
         Assert.assertTrue(iceriyorMu);
-        // Assert.assertTrue(title.contains("Amazon") ? true : false); seklinde de yazilabilir
+        //Assert.assertTrue(title.contains("Amazon") ? true : false); seklinde de yazilabilir
     }
 
     @Test
